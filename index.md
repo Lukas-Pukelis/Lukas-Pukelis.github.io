@@ -1,9 +1,9 @@
 # Lukas Pukelis
 
-<img align="left" src="/img/foto_ed.jpg" alt="Photo" width="150"/>
+<p><img align="left" src="/img/foto_ed.jpg" alt="Photo" width="150"/></p>
 
 
-| [**About me	**](https://lukas-pukelis.github.io/) | [**Projects    **]() | [**Publications    **](publications.md) | [**Contact    **]() |
+| [**About me**](https://lukas-pukelis.github.io/) | [**Projects**]() | [**Publications**](publications.md) | [**Contact**]() |
 
 
 ## About me
