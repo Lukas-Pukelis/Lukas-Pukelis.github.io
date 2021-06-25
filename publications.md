@@ -1,5 +1,5 @@
 
-<p>| [**About me**](https://lukas-pukelis.github.io/) | [**Projects**]() | [**Publications**](publications.md) | [**Contact**]() | </p>
+| [**About me**](https://lukas-pukelis.github.io/) | [**Projects**]() | [**Publications**](publications.md) | [**Contact**]() |
 
 
 # Machine Learning and NLP
