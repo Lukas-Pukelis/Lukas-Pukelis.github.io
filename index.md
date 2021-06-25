@@ -1,6 +1,7 @@
 # Lukas Pukelis
 
-![Photo](/img/foto_ed.jpg =150x)
+<img src="/img/foto_ed.jpg" alt="Photo" width="150"/>
+
 
 | [**About me**]() | [**Projects**]() | [**Publications**]() | [**Contact**]() |
 
