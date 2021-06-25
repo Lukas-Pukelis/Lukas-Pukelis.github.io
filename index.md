@@ -1,6 +1,6 @@
 # Lukas Pukelis
 
-![Photo](/img/foto_ed.png)
+![Photo](/img/foto_ed.jpg)
 
 | [**About me**]() | [**Projects**]() | [**Publications**]() | [**Contact**]() |
 
