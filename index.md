@@ -1,12 +1,8 @@
+| [**About me**](https://lukas-pukelis.github.io/) | |  [**Projects**](projects.md) | | [**Publications**](publications.md) | | [**Contact**]() | 
+
 # Lukas Pukelis
 
 <img src="/img/foto_ed.jpg" alt="Photo" width="150"/>
-
-
-
-
-| [**About me**](https://lukas-pukelis.github.io/) | |  [**Projects**](projects.md) | | [**Publications**](publications.md) | | [**Contact**]() | 
-
 
 ## About me
 
