@@ -1,12 +1,11 @@
 # Lukas Pukelis
 
-<p><img align="left" src="/img/foto_ed.jpg" alt="Photo" width="150"/></p>
-<p></p>
+<img src="/img/foto_ed.jpg" alt="Photo" width="150"/>
 
 
-<p>
-| [**About me**](https://lukas-pukelis.github.io/) | [**Projects**](projects.md) | [**Publications**](publications.md) | [**Contact**]() | 
-</p>
+
+
+| [**About me**](https://lukas-pukelis.github.io/) | |  [**Projects**](projects.md) | | [**Publications**](publications.md) | | [**Contact**]() | 
 
 
 ## About me
